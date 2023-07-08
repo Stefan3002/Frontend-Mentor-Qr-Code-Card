@@ -24,7 +24,7 @@ This is my submission for the Frontend Mentor Qr Code Card challenge.
 ### Links
 
 - Solution URL: [GitHub](https://github.com/Stefan3002/Frontend-Mentor-Qr-Code-Card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Web Site](https://stefan3002.github.io/Frontend-Mentor-Qr-Code-Card/)
 
 ## My process
 
